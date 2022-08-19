@@ -1,0 +1,53 @@
+table {
+    background-color: white;
+    width: 100%;
+    border: none;
+    border-collapse: collapse;
+    text-align: center;
+    height: 300px;
+  }
+
+td {
+    border: 2px solid #444444;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: relative;
+    font-size: 17px;
+  }
+td input{
+    border: none;
+    border-bottom: 3px wheat solid;
+    height: 20px;
+    width: 200px;
+    background-color: whitesmoke(197, 191, 191);
+}
+input:focus{
+  outline:none
+}
+td button{
+    height: 37px;
+    width: 60px;
+    background-color: white;
+    color : black;
+    border: none;
+    border-radius: 30px;
+    font-size: 30px;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+.genderRadio{
+   display: flex;
+   font-size: 7px;
+   font-weight: 800;
+}
+
+
+
+
+
+
+
+
+
+
+

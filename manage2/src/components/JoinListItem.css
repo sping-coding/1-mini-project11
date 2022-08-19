@@ -1,0 +1,17 @@
+
+.update{
+    width: 100px;
+    height: 40px;
+    margin-right: 20px;
+    background-color: skyblue;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.delete{
+    width: 100px;
+    height: 40px;
+    background-color: lightsalmon;
+    border-radius: 20px;
+    cursor: pointer;
+}
